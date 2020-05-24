@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Franklin MBOUOPDA</title>
+    <link>/author/michael-franklin-mbouopda/</link>
+      <atom:link href="/author/michael-franklin-mbouopda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Franklin MBOUOPDA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Dec 2029 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/michael-franklin-mbouopda/avatar_hue21ac9ff017fe6ddac1e79dcc34ce903_915854_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Michael Franklin MBOUOPDA</title>
+      <link>/author/michael-franklin-mbouopda/</link>
+    </image>
+    
+    <item>
+      <title>A Word Representation to Improve Named Entity Recognition in Low-resource Languages</title>
+      <link>/publication/ner-projection-snams/</link>
+      <pubDate>Sun, 16 Dec 2029 00:00:00 +0000</pubDate>
+      <guid>/publication/ner-projection-snams/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Classification des Séries Temporelles Incertaines par Transformation Shapelet</title>
+      <link>/publication/ust-hal/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ust-hal/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
