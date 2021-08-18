@@ -2,21 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael Franklin MBOUOPDA</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://frankl1.github.io/</link>
+      <atom:link href="https://frankl1.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Franklin MBOUOPDA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Aug 2021 11:51:16 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://frankl1.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Michael Franklin MBOUOPDA</title>
-      <link>/</link>
+      <link>https://frankl1.github.io/</link>
     </image>
     
     <item>
+      <title>Taekwondo Kicks Prediction Using Time Series of Poses</title>
+      <link>https://frankl1.github.io/project/beflowtkd/</link>
+      <pubDate>Wed, 18 Aug 2021 11:51:16 +0200</pubDate>
+      <guid>https://frankl1.github.io/project/beflowtkd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertain Time Series Classification</title>
+      <link>https://frankl1.github.io/publication/utsc-ijcai/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://frankl1.github.io/publication/utsc-ijcai/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uncertain Time Series Classification with Shapelet Transform</title>
+      <link>https://frankl1.github.io/publication/ust-icdmw/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://frankl1.github.io/publication/ust-icdmw/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Classification des Séries Temporelles Incertaines par Transformation Shapelet</title>
-      <link>/publication/ust-cnia/</link>
+      <link>https://frankl1.github.io/publication/ust-cnia/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ust-cnia/</guid>
+      <guid>https://frankl1.github.io/publication/ust-cnia/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -29,9 +67,9 @@
     
     <item>
       <title>A Word Representation to Improve Named Entity Recognition in Low-resource Languages</title>
-      <link>/publication/ner-projection-snams/</link>
+      <link>https://frankl1.github.io/publication/ner-projection-snams/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ner-projection-snams/</guid>
+      <guid>https://frankl1.github.io/publication/ner-projection-snams/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -44,9 +82,9 @@
     
     <item>
       <title>Classification des Séries Temporelles Incertaines par Transformation Shapelet</title>
-      <link>/publication/ust-hal/</link>
+      <link>https://frankl1.github.io/publication/ust-hal/</link>
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ust-hal/</guid>
+      <guid>https://frankl1.github.io/publication/ust-hal/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
