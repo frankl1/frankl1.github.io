@@ -2,8 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://frankl1.github.io/publication-type/1/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://frankl1.github.io/authors/</loc>
-    <lastmod>2021-08-18T11:51:16+02:00</lastmod>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frankl1.github.io/publication/defiegc2021/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frankl1.github.io/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frankl1.github.io/author/michael-franklin-mbouopda/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frankl1.github.io/publication_types/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frankl1.github.io/publication/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frankl1.github.io/tag/source-themes/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frankl1.github.io/tags/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frankl1.github.io/author/christelle-wotchouang-djoko/</loc>
     <lastmod>2021-08-18T11:51:16+02:00</lastmod>
@@ -17,9 +41,6 @@
     <loc>https://frankl1.github.io/author/michael-franklin-mbouopda/</loc>
     <lastmod>2021-08-18T11:51:16+02:00</lastmod>
   </url><url>
-    <loc>https://frankl1.github.io/</loc>
-    <lastmod>2021-08-18T11:51:16+02:00</lastmod>
-  </url><url>
     <loc>https://frankl1.github.io/project/</loc>
     <lastmod>2021-08-18T11:51:16+02:00</lastmod>
   </url><url>
@@ -29,35 +50,35 @@
     <loc>https://frankl1.github.io/project/beflowtkd/</loc>
     <lastmod>2021-08-18T11:51:16+02:00</lastmod>
   </url><url>
-    <loc>https://frankl1.github.io/tags/</loc>
-    <lastmod>2021-08-18T11:51:16+02:00</lastmod>
-  </url><url>
     <loc>https://frankl1.github.io/tag/time-series/</loc>
     <lastmod>2021-08-18T11:51:16+02:00</lastmod>
   </url><url>
-    <loc>https://frankl1.github.io/publication-type/1/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://frankl1.github.io/author/engelbert-mephu-nguifo/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frankl1.github.io/author/michael-franklin-mbouopda/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frankl1.github.io/publication_types/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frankl1.github.io/publication/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frankl1.github.io/tag/source-themes/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frankl1.github.io/publication/utsc-ijcai/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://frankl1.github.io/publication/sast-cap/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frankl1.github.io/tag/android-app/</loc>
+    <lastmod>2021-06-01T11:51:16+02:00</lastmod>
+  </url><url>
+    <loc>https://frankl1.github.io/tag/business/</loc>
+    <lastmod>2021-06-01T11:51:16+02:00</lastmod>
+  </url><url>
+    <loc>https://frankl1.github.io/tag/chicken-breeding/</loc>
+    <lastmod>2021-06-01T11:51:16+02:00</lastmod>
+  </url><url>
+    <loc>https://frankl1.github.io/project/monpoulailler/</loc>
+    <lastmod>2021-06-01T11:51:16+02:00</lastmod>
+  </url><url>
     <loc>https://frankl1.github.io/publication/ust-icdmw/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frankl1.github.io/publication/ust-ecmlw/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frankl1.github.io/publication/ust-cnia/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
