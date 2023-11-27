@@ -61,6 +61,20 @@
     </item>
     
     <item>
+      <title>Explainable classification of astronomical uncertain time series</title>
+      <link>https://frankl1.github.io/publication/usast/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://frankl1.github.io/publication/usast/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Etude de la prédiction du niveau de la nappe phréatique à l&#39;aide de modèles neuronaux convolutif, récurrent et résiduel</title>
       <link>https://frankl1.github.io/publication/defiegc2021/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
@@ -372,7 +386,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-182675349&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-321675849&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -382,7 +396,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-182675349&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-321675849&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
